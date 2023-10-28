@@ -1,0 +1,1149 @@
+Restaurant: BARBAR
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: Breakfast
+All items are served with an assortment of vegetables.
+All prices are inclusive of %5 VAT.
+Dish: Foul mudammas 
+Dish Description: Slow-cooked fava beans and chickpeas
+Dish Price: 26 AED
+Dish: Fattet hummus 
+Dish Description: Whole chickpeas mixed with yogurt and fried crispy bread and nuts, topped fried cashew nuts.
+Dish Price: 31 AED
+Dish: Balila 
+Dish Description: Whole chickpeas seasoned with spices, garlic.
+Dish Price: 26 AED
+Dish: Fried eggs 
+Dish Description: Three fried eggs cooked your way.
+Dish Price: 22 AED
+Dish: Grilled halloumi 
+Dish Price: 29 AED
+Dish: Labneh 
+Dish Price: 22 AED
+Dish: Labneh with thymes 
+Dish Description: Mix of labneh and traditional thyme.
+Dish Price: 19 AED
+Dish: Egg with meat 
+Dish Description:Three fried eggs with minced meat.
+Dish Price: 31 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: Manakish
+All prices are inclusive of %5 VAT.
+Dish: Akkawi cheese 
+Dish Price: 16 AED
+Dish: Zaatar 
+Dish Price: 10 AED
+Dish: Lahm bi ajeen 
+Dish Description: Ground meat mixed with vegetables and spices.
+Dish Price: 22 AED
+Dish: Cocktail cheese & zaatar 
+Dish Price: 15 AED
+Dish: Kafta & cheese 
+Dish Description: Ground meat mixed with parsley, onion, and spices, topped with mozzarella cheese, tomato and mayonnaise.
+Dish Price: 29 AED
+Dish: Turkey & cheese 
+Dish Description: Turkey & cheese topped with mayonnaise, mustard, cucumber pickles, tomato and lettuce.
+Dish Price: 29 AED
+Dish: Labneh 
+Dish Description: Topped with tomato, cucumber, mint and olive.
+Dish Price: 15 AED
+Dish: Bassal & banadoura 
+Dish Description: mix of diced tomato, onion, olive oil and spices.
+Dish Price: 10 AED
+Dish: Choco Banana 
+Dish Description: Nutella with banana and hazelnut.
+Dish Price: 22 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: PIZZA
+All prices are inclusive of %5 VAT.
+Dish: Margherita 
+Dish Description: Tomato sauce and mozzarella cheese.
+Dish Price: 31 AED
+Dish: Vegetarian 
+Dish Description: Tomato sauce, mozzarella cheese, green olives, mushroom, onion, corn, and bell peppers.
+Dish Price: 34 AED
+Dish: Pepperoni 
+Dish Description: Tomato sauce, mozzarella cheese, and pepperoni.
+Dish Price: 36 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SALADS
+All prices are inclusive of %5 VAT.
+Dish: Arabian Salad 
+Dish Description: Romaine lettuce, tomato, cucumber, mint and salad dressing.
+Dish Price: 22 AED
+Dish: Tabouleh 
+Dish Description: Parsley, diced tomato, onion, burghul, tabouleh dressing.
+Dish Price: 24 AED
+Dish: Fattoush 
+Dish Description: Romaine lettuce, red cabbage, bell pepper, radish, purslane, cucumber, tomato, fresh thyme, arugula, mint, sumac, and fried bread, with a special salad dressing.
+Dish Price: 24 AED
+Dish: Bakleh salad 
+Dish Description: Purslane, onion, sumac and salad dressing.
+Dish Price: 24 AED
+Dish: Rocca salad 
+Dish Description: Arugula, onion, sumac and salad dressing.
+Dish Price: 22 AED
+Dish: Rocca & Bakleh salad 
+Dish Description: Arugula, purslane, onion, sumac and salad dressing.
+Dish Price: 26 AED
+Dish: Rocca & Zaatar salad 
+Dish Description: Arugula, thyme, onion, sumac and salad dressing.
+Dish Price: 28 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: COLD MEZZE
+All items are served with an assortment of pickles.
+All prices are inclusive of %5 VAT.
+Dish: Hummus 
+Dish Description: Slow-cooked chickpeas blended with tahini and olive oil.
+Dish Price: 23 AED
+Dish: Hummus Beiruti 
+Dish Description: Slow-cooked chickpeas blended with tahini, parsley, chili powder, garlic, lemon juice, cumin, and olive oil.
+Dish Price: 26 AED
+Dish: Moutabbal 
+Dish Description: Grilled eggplant blended with tahini and olive oil.
+Dish Price: 23 AED
+Dish: Hindbeh 
+Dish Description: Chicory topped with caramelized onions.
+Dish Price: 26 AED
+Dish: Fried cauliflower 
+Dish Description: Fried cauliflower served with tarator sauce.
+Dish Price: 25 AED
+Dish: Fried eggplant 
+Dish Description: Fried eggplant served with tarator sauce.
+Dish Price: 25 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: HOT MEZZE
+All prices are inclusive of %5 VAT.
+Dish: Hummus & meat 
+Dish Description: Our special Hummus, topped with fried meat, nuts and served with an assortment of pickles.
+Dish Price: 32 AED
+Dish: Hummus & beef shawarma 
+Dish Description: Our special Hummus, topped with beef shawarma, and served with an assortment of pickles.
+Dish Price: 31 AED
+Dish: Hummus & chicken shawarma 
+Dish Description: Our special Hummus, topped with chicken shawarma, and served with an assortment of pickles.
+Dish Price: 31 AED
+Dish: Chicken wings 
+Dish Description: Chicken wings marinated in a special sauce and served with toum and an assortment of pickles.
+Dish Price: 32 AED
+Dish: Batata Harra 
+Dish Description: Fried potato cubes mixed with coriander, garlic and chili paste.
+Dish Price: 21 AED
+Dish: French Fries 
+Dish Price: 15 AED
+Dish: Baked potato 
+Dish Price: 15 AED
+Dish: Cheese rolls 
+Dish Description: Mix of akkawi cheese and spices, rolled in puff pastry.
+Dish Price: 24 AED
+Dish: Samboussek 
+Dish Description: House made dough stuffed with meat, onion, and spices.
+Dish Price: 24 AED
+Dish: Kebbeh 
+Dish Description: Burghul dough mixed with meat, and stuffed with minced meat, onion and spices.
+Dish Price: 24 AED
+Dish: Arayes kafta 
+Dish Description: Pita bread stuffed with ground meat mixed with parsley, spices and tomato, served with an assortment of vegetables.
+Dish Price: 36 AED
+Dish: Makanek 
+Dish Description: Makanek sauteed with lemon juice, served with an assortment of pickles.
+Dish Price: 32 AED
+Dish: Sujok 
+Dish Description: Sujok sauteed with lemon juice, served with an assortment of pickles.
+Dish Price: 32 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: DAILY DISH
+All prices are inclusive of %5 VAT.
+Dish: Fassoliya 
+Dish Description: Cannellini Beans with garlic, coriander, tomato sauce and beef shank, served with vermicelli rice.
+Dish Price: 39 AED
+Dish: Kafta & potato 
+Dish Description: Kafta balls, potato cubes, sweet onions and tomato sauce served with vermicelli rice.
+Dish Price: 39 AED
+Dish: Moghrabiye 
+Dish Description: Moghrabiye dough, chickpeas and chicken gravy sauce with two chicken thighs.
+Dish Price: 39 AED
+Dish: Molokhiye 
+Dish Description: Molokhiye leaves, garlic, red chili, coriander and chicken, served with vermicelli rice.
+Dish Price: 39 AED
+Dish: Yogurt Kebbeh 
+Dish Description: Yogurt with garlic and mint and 5 pieces of kibbeh, served with white rice.
+Dish Price: 39 AED
+Dish: Bemieh 
+Dish Description: Baby okra, garlic, coriander, tomato sauce and beef shank, served with vermicelli rice.
+Dish Price: 39 AED
+Dish: Chicken potato 
+Dish Description: Baked chicken and grilled potato with lemon coriander sauce, served with white rice.
+Dish Price: 39 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BROASTED CHICKEN
+All prices are inclusive of %5 VAT.
+Dish: Broasted chicken 4pcs 
+Dish Description: Fried pieces of half chicken served with cucumber pickles, salad coleslaw, russian salad, baked potato or French fries and toum.
+Dish Price: 47 AED
+Dish: Broasted chicken 8pcs 
+Dish Description: Fried pieces of whole chicken served with cucumber pickles, salad coleslaw, russian salad, baked potato or French fries and toum.
+Dish Price: 77 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: FALAFEL
+All prices are inclusive of %5 VAT.
+Dish: Falafel sandwich 
+Dish Description: Fried falafel served in an arabic bread with parsley, mint, radish, tomato, turnip pickles, and tarator sauce.
+Dish Price: 11 AED
+Dish: Small falafel platter 
+Dish Description: 6 pieces of fried falafel served with vegetables (parsley, mint, radish, tomato, turnip pickles), and tarator sauce.
+Dish Price: 19 AED
+Dish: Large falafel platter 
+Dish Description: 12 pieces of fried falafel served with vegetables (parsley, mint, radish, tomato, turnip pickles), and tarator sauce.
+Dish Price: 31 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BBQ PLATTERS
+All platters are served with a side fries or baked potato and pickles.
+All prices are inclusive of %5 VAT.
+Dish: Tawouk chicken 
+Dish Description: 2 skewers of marinated chicken breast cubes with toum and chili arabic bread.
+Dish Price: 49 AED
+Dish: Meat 
+Dish Description: 2 skewers of grilled meat cubes and lamb fat and antakli bread.
+Dish Price: 55 AED
+Dish: Kabab 
+Dish Description: 4 skewers of ground meat mixed with spices and antakli bread.
+Dish Price: 47 AED
+Dish: Kabab eggplant
+Dish Description: 2 skewers of ground meat mixed with vegetables and spices, served with eggplant and antakli bread.
+Dish Price: 49 AED
+Dish: Kabab orfali
+Dish Description: 2 skewers of ground meat mixed with vegetables and spices, served with chili peppers, tomato and antakli bread.
+Dish Price: 49 AED
+Dish: Kabab kheshkhash
+Dish Description: 4 skewers of ground meat mixed with chili paste and spices with antakli bread.
+Dish Price: 49 AED
+Dish: Makanek
+Dish Description: 2 skewers of grilled makanek, topped with a chili arabic bread.
+Dish Price: 48 AED
+Dish: Sujok
+Dish Description: 2 skewers of grilled sujok, topped with a chili arabic bread.
+Dish Price: 48 AED
+Dish: Barbar BBQ
+Dish Description: 2 kabab skewers, one beef, one tawouk chicken, served with toum and antakli bread.
+Dish Price: 58 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BBQ CHICKEN
+All prices are inclusive of %5 VAT.
+Dish: Whole Chicken 
+Dish Description: Grilled marinated chicken, served with toum, baked potato or French fries, and an assortment of pickles.
+Dish Price: 84 AED
+Dish: Half chicken 
+Dish Description: Grilled marinated chicken, served with toum, baked potato or French fries, and an assortment of pickles.
+Dish Price: 46 AED
+Dish: BBQ chicken breast 
+Dish Description: Grilled chicken breast served with toum, baked potato or French fries, and an assortment of pickles.
+Dish Price: 37 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SIDES
+All prices are inclusive of %5 VAT.
+Dish: Coleslaw 
+Dish Description: Shredded cabbage and carrots salad with mayonnaise.
+Dish Price: 6 AED
+Dish: Side Fries 
+Dish Description: French fries served with ketchup.
+Dish Price: 15 AED
+Dish: Baked potato 
+Dish Price: 15 AED
+Dish: Pickles plate 
+Dish Description: Cucumber pickles, turnip pickles, chili pickles and green olive.
+Dish Price: 5 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BBQ BY KG
+1 kg platters are served with an assortment of vegetables.
+All prices are inclusive of %5 VAT.
+Dish: Chicken tawouk 
+Dish Description: Marinated chicken breast cubes, served with toum, assortment of pickles and chili bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 150 AED
+Dish: Meat 
+Dish Description: Grilled meat cubes and lamb fat, served with toum, assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 90 AED, 1 Kg 180 AED
+Dish: Kabab eggplant 
+Dish Description: Ground meat mixed with vegetables and spices, served with eggplant, an assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 149 AED
+Dish: Kabab halabi 
+Dish Description: Ground meat mixed with spices, served with an assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 149 AED
+Dish: Kabab kheshkhash 
+Dish Description: Ground meat mixed with chili paste and blended spices, served with an assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 149 AED
+Dish: Kebab orfali 
+Dish Description: Ground meat mixed with chili peppers and blended spices, served with an assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 149 AED
+Dish: Kabab extra 
+Dish Description: Kabab kheshkhash, orfali and halabi, served with an assortment of pickles and antakli bread.
+Dish Price: 1/2  Kg 79 AED, 1 Kg 149 AED
+Dish: Mixed BBQ 1/2kg 
+Dish Description: Two chicken tawouk skewers, two meat skewers, and two kabab halabi skewers, served with toum, assortment of pickles and antakli bread.
+Dish Price: 89 AED
+Dish: Mixed BBQ 1kg 
+Dish Description: Four chicken tawouk skewers, four meat skewers, and four kabab halabi skewers, served with vegetables, toum, aassortment of pickles and antakli bread.
+Dish Price: 175 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BBQ SANDWICHES
+All prices are inclusive of %5 VAT.
+Dish: Meat 
+Dish Description: Meat cubes and lamb fat, served with hummus, biwaz, and tomato in arabic bread.
+Dish Price: 26 AED
+Dish: Chicken tawouk 
+Dish Description: Marinated chicken breast cubes served with toum, cucumber pickles and French fries in arabic bread.
+Dish Price: 23 AED
+Dish: Kabab halabi 
+Dish Description: Ground meat mixed with spices, served with hummus, biwaz, and tomato in arabic bread.
+Dish Price: 22 AED
+Dish: Kabab orfali 
+Dish Description: Ground meat mixed with bell pepper and spices, served with hummus, biwaz, chili peppers and tomato in arabic bread.
+Dish Price: 23 AED
+Dish: Kabab eggplant 
+Dish Description: Ground meat mixed with bell peppers and spices, served with hummus, biwaz, eggplant and tomato in arabic bread.
+Dish Price: 23 AED
+Dish: Kabab kheshkhash 
+Dish Description: Ground meat mixed with chili paste and spices, served with hummus, biwaz, and tomato in arabic bread.
+Dish Price: 23 AED
+Dish: Sujok 
+Dish Description: Grilled sujok served with toum, cucumber pickles and tomato in arabic bread.
+Dish Price: 25 AED
+Dish: Makanek 
+Dish Description: Grilled Makanek served with hummus, cucumber pickles, and tomato in arabic bread.
+Dish Price: 25 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BURGERS
+All prices are inclusive of %5 VAT.
+Dish: Lebanese burger 
+Dish Description: Beef burger patty with ketchup, coleslaw and fries.
+Dish Price: 34 AED
+Dish: Crispy chicken burger 
+Dish Description: Fried crispy chicken breast with cucumber pickles, coleslaw, fries and toum.
+Dish Price: 34 AED
+Dish: Add cheese
+Dish Price: 5 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SANDWICHES Chicken
+All prices are inclusive of %5 VAT.
+Dish: Fajitas 
+Dish Description: Grilled marinated chicken, with onion, green pepper, mushroom, mozzarella cheese, chicken wing sauce and avocado sauce, served in submarine sesame bread.
+Dish Price: 34 AED
+Dish: Francisco 
+Dish Description: Roasted chicken breast strips with cucumber pickles, romaine lettuce, mozzarella cheese, mayonnaise and soy sauce, served in submarine bread.
+Dish Price: 25 AED
+Dish: Chicken sub 
+Dish Description: Grilled chicken with corn, cucumber pickles, romaine lettuce, mozzarella cheese, mayonnaise, soya and toum sauce, served in submarine bread.
+Dish Price: 31 AED
+Dish: Tawouk 
+Dish Description: Marinated chicken breast cubes with cucumber pickles, toum, served in submarine bread.
+Dish Price: 22 AED
+Dish: Chicken 
+Dish Description: Shredded chicken with cucumber pickles and toum, served in submarine bread.
+Dish Price: 22 AED
+Dish: Chicken escalope 
+Dish Description: Fried escalope with cucumber pickles, romaine lettuce, fries , toum and mayonnaise, served in submarine bread.
+Dish Price: 23 AED
+Dish: Mexican chicken 
+Dish Description: Spicy roasted chicken breast strips with cucumber pickles, romaine lettuce, mozzarella cheese, mayonnaise and soy sauce, served in submarine bread.
+Dish Price: 23 AED
+Dish: Chinese chicken 
+Dish Description: Chicken breast cubes sauteed with bell pepper and cucumber pickles, corn, mayonnaise and soy sauce, served in submarine bread.
+Dish Price: 23 AED
+Dish: Chicken liver 
+Dish Description: Sauteed chicken liver with cucumber pickles, tomato, toum and lemon juice, served in submarine bread.
+Dish Price: 22 AED
+Dish: Chicken & Shrimps 
+Dish Description: Shrimps, roasted chicken breast strips, cucumber pickles, romaine lettuce, soy sauce and sauce tartar, served in submarine bread.
+Dish Price: 29 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SANDWICHES Meat
+All prices are inclusive of %5 VAT.
+Dish: Philadelphia 
+Dish Description: Grilled slices of beef, with onion, mushroom, green pepper, mozzarella cheese, mayonnaise and signature sauce, served in submarine sesame bread.
+Dish Price: 34 AED
+Dish: Steak 
+Dish Description: Grilled slices of steak with cucumber pickles, romaine lettuce, potato slices and mayonnaise, served in submarine bread.
+Dish Price: 26 AED
+Dish: Chili steak 
+Dish Description: Grilled spicy slices of steak with cucumber pickles, romaine lettuce, potato slices and mayonnaise, served in submarine bread.
+Dish Price: 27 AED
+Dish: Roast beef 
+Dish Description: Roast beef with cucumber pickles, romaine lettuce, tomato and mayonnaise, served in submarine bread.
+Dish Price: 23 AED
+Dish: Makanek 
+Dish Description: Makanek with cucumber pickles, tomato, and lemon juice, served in submarine bread.
+Dish Price: 24 AED
+Dish: Sujok 
+Dish Description: Sujok, cucumber pickles, tomato, toum and lemon juice, served in submarine bread.
+Dish Price: 24 AED
+Dish: Lamb Tongues 
+Dish Description: Slices of cooked lamb tongues, tomato, pickles and toum, served in submarine bread.
+Dish Price: 25 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SANDWICHES Fish
+All prices are inclusive of %5 VAT.
+Dish: Crab 
+Dish Description: Crab with cucumber pickles and tartar sauce, served in submarine bread.
+Dish Price: 29 AED
+Dish: Shrimp & crab 
+Dish Description: Shrimps and crab with cucumber pickles and tartar sauce, served in submarine bread.
+Dish Price: 29 AED
+Dish: Shrimp 
+Dish Description: Shrimps with cucumber pickles, romaine lettuce, tartar sauce and cocktail sauce, served
+in submarine bread.
+Dish Price: 29 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SANDWICHES Veggie
+All prices are inclusive of %5 VAT.
+Dish: Fried cauliflower sandwich 
+Dish Description: Fried cauliflower with cucumber pickles, tomato, lemon juice and tarator sauce, served in arabic bread.
+Dish Price: 18 AED
+Dish: Hindbeh sandwich 
+Dish Description: Chicory and caramelized onions, served in arabic bread.
+Dish Price: 22 AED
+Dish: Fries sandwich 
+Dish Description: fries, coleslaw, ketchup and toum, served in arabic bread.
+Dish Price: 15 AED
+Dish: Fried eggplant Sandwich 
+Dish Description: Fried eggplant with pickles, tomato, lemon juice and tahini sauce, served in arabic bread.
+Dish Price: 18 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SHAWARMA
+All prices are inclusive of %5 VAT.
+Dish: Chicken shawarma sandwich 
+Dish Description: Chicken shawarma served in arabic bread with cucumber pickles, fries, and toum.
+Dish Price: 12 AED
+Dish: Beef shawarma sandwich 
+Dish Description: Beef shawarma served in arabic bread with cucumber pickles, biwaz, grilled tomato, and tarator sauce.
+Dish Price: 14 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SHAWARMA Platters
+All prices are inclusive of %5 VAT.
+You can choose between baked potato Chicken shawarma sandwich or french fries.
+Dish: Chicken shawarma platter 
+Dish Description: Chicken shawarma served with cucumber pickles, coleslaw, Russian salad, fries, and toum.
+Dish Price: 38 AED
+Dish: Beef shawarma platter 
+Dish Description: Beef shawarma served with cucumber pickles, biwaz, grilled tomato, coleslaw, Russian salad, fries, and tarator sauce.
+Dish Price: 42 AED
+Dish: Mix shawarma platter 
+Dish Description: Half portion of chicken shawarma and half portion of beef shawarma, served with cucumber pickles, biwaz, grilled tomato, coleslaw, Russian salad, fries, tarator sauce and toum.
+Dish Price: 46 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: COCKTAILS
+All prices are inclusive of %5 VAT.
+Dish: Cocktail slices 
+Dish Description: Layers of guava juice, strawberry juice, mango juice, banana slices, apple cubes, pear cubes, pineapple cubes, kiwi cubes, and strawberry cubes, topped with kashta, almond and honey.
+Dish Price: 29 AED
+Dish: Chocolate mou 
+Dish Description: Chocolate merry cream topped with whipped cream, chocolate sprinkles, hazelnut and chocolate sauce.
+Dish Price: 25 AED
+Dish: Avocado 
+Dish Description: Blended avocado and milk topped with kashta, almond and honey.
+Dish Price: 35 AED
+Dish: Cocktail juice 
+Dish Description: Mix of strawberry juice, mango juice, guava juice, banana and milk.
+Dish Price: 25 AED
+Dish: Tahiti 
+Dish Description: Layers of strawberry juice with banana and pineapple slices, topped with merry cream milk and strawberry sauce.
+Dish Price: 24 AED
+Dish: Chocolate milkshake 
+Dish Description: Chocolate merry cream and milk, topped with chocolate sprinkles, hazelnut and chocolate sauce.
+Dish Price: 24 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: ICE CREAM
+All prices are inclusive of %5 VAT.
+Dish: Gelato 
+Dish Description: Your choice of 1 scoop of Italian ice cream: pistachio, chocolate, strawberry, blueberry, mango, almond or vanilla.
+Dish Price: 8 AED
+Dish: Merry Cream 
+Dish Description: Flavored merry cream: milk or chocolate or mix. Cone or cup.
+Dish Price: 15 AED
+Dish: Banana split 
+Dish Description: 3 Gelato flavors of your choice with banana, whipped cream and chocolate sprinkles. Topped with chocolate and strawberry sauce with cherry on top.
+Dish Price: 28 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: JUICES
+All prices are inclusive of %5 VAT.
+Dish: Orange juice 
+Dish Price: 22 AED
+Dish: Carrot juice 
+Dish Price: 22 AED
+Dish: Carrot orange juice 
+Dish Price: 22 AED
+Dish: Strawberry 
+Dish Price: 22 AED
+Dish: Mango 
+Dish Price: 22 AED
+Dish: Guava 
+Dish Price: 22 AED
+Dish: Lemonade 
+Dish Price: 18 AED
+Dish: Jallab 
+Dish Description: Jallab, cashew nut and dried raisins.
+Dish Price: 18 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: BEVERAGES
+All prices are inclusive of %5 VAT.
+Dish: Americano 
+Dish Price: 13 AED
+Dish: Cappuccino 
+Dish Price: 15 AED
+Dish: Espresso 
+Dish Price: 12 AED
+Dish: Double espresso 
+Dish Price: 13 AED
+Dish: Caffè latte 
+Dish Price: 15 AED
+Dish: Tea 
+Dish Price: 9 AED
+Dish: Iced Tea 
+Dish Description: Lemon or peach
+Dish Price: 13 AED
+Dish: Ayran yogurt 
+Dish Price: 12 AED
+Dish: Mineral water 
+Dish Price: 8 AED
+Dish: Sparkling Water 
+Dish Price: 10 AED
+
+Restaurant: BARBAR, Link to full menu url: https://api.eatbarbar.com/content/uploads//corporatePageSections/UAE_Menu.pdf
+Restaurant: BARBAR, Dish Group: SOFT DRINKS
+All prices are inclusive of %5 VAT.
+Dish: Pepsi 
+Dish Price: 8 AED
+Dish: Diet Pepsi 
+Dish Price: 8 AED
+Dish: Miranda 
+Dish Price: 8 AED
+Dish: 7up 
+Dish Price: 8 AED
+Dish: Diet 7up 
+Dish Price: 8 AED
+
+Restaurant: Rawabi Alsham
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf 
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Tuesday
+Dish: Chicken Mulokheya 
+Dish: Mixed Mahashi 
+Dish: Shakreya with Shank Meat 
+Dish: Syrian Oozy 
+Dish: Chicken Biryani 
+Dish: Meals in Yogurt 
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Monday
+Dish: Chicken Shank Meat W/oil 
+Dish: Kofta W/potato in Oven 
+Dish: Shami Boneless Chicken 
+Dish: Zucchini with Yogurt 
+Dish: Chicken Kabsa 
+Dish: Meals in Yogurt 
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Thursday
+Dish: Dawood Basha 
+Dish: Stuffed Cabbage W / Necks Slice
+Dish: Meat Basmeshkat
+Dish: Chicken Mandi
+Dish: Chicken Mousakhan
+Dish: Meals in Yogurt
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Wednesday
+Dish: Green Peas with Veg & Meat 
+Dish:Roast Beef
+Dish: Meat Slices in Yogurt W/ Beans
+Dish: Chicken Maklouba
+Dish: Chicken in Oven with Potato
+Dish: Meals in Yogurt
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Saturday
+Dish: Stuffed Lamb 
+Dish: Fawaregh. Makadem. Tongues
+Dish: Eggplant with Meat Manazaleh
+Dish: Fish Sayadeya
+Dish: Chicken Maklouba
+Dish: Meals in Yogurt
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Friday
+Dish: Syrian Oozy
+Dish: Jordanian Mansaf
+Dish: Mixed Mahashi
+Dish: Shami Boneless Chicken
+Dish: Chicken Mulokheya
+Dish: Meals in Yogurt
+
+Restaurant: Alsham, Link to full menu url: https://rawabi-alsham.com/menu/d-menu.pdf
+Restaurant: Rawabi Alsham, Dish Group: Daily Dish: Sunday
+Dish: Chicken Bouhkary
+Dish: Chicken Freka
+Dish: Meals in Yogurt
+Dish: White Beans with Meat
+Dish: Stuffed Wine Leaves W / Necks Slice
+Dish: Jordanian Mansaf
+
+Restaurant: Allo BEIRUT
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: Breakfast SET
+Dish: MENU FOR TWO Served till 11:30 AM 
+Dish Description: Achta & Honey, Apricot Jam & Butter,  1 Mankousheh, 3 Eggs Your Way, Labneh, Grilled Halloumi, Foul Moudammas, Vegetables & Olives, Tea or Coffee.
+Dish Price: 89 AED
+Dish: MENU FOR FOUR Served till 11:30 AM 
+Dish Description: Achta & Honey, Apricot Jam & Butter, 2 Manakish Zaatar & Cheese, Shashouka & 3 Eggs Your Way, Labneh, Grilled Halloumi Foul Moudammas, Balila, Vegetables & Olives, Tea or Coffee.
+Dish Price: 160 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: ALL-day breakfast
+Dish: Kishk * Recommended by the chef
+Dish Description: Dried goat milk & cracked wheat cooked with garlic & onions; topped with pine nuts.
+Dish Price: 29 AED
+Dish: Kishk & Meat/Awarma 
+Dish Description: Dip of kishk topped with chopped beef or awarma & pine nuts.
+Dish Price: 31 AED
+Dish: Balila * Recommended by the chef
+Dish Description: Chickpeas cooked with olive oil, lemon juice, garlic & cumin; served with a side of vegetables.
+Dish Price: 26 AED
+Dish: Foul Moudammas 
+Dish Description: Fava beans cooked with garlic, lemon juice & olive oil, topped with chickpeas & diced tomato; served with a side of vegetables.
+Dish Price: 26 AED
+Dish: Fattet Hummus 
+Dish Description: A mix of boiled chickpeas cooked with garlic & lemon juice; topped with yogurt sauce, fried bread, pine nuts & ghee.
+Dish Price: 31 AED
+Dish: Fatteh Eggplant 
+Dish Description: Fried eggplant & minced beef served with garlic & lemon juice; topped with yogurt & tomato sauce, fried bread, pine nuts & ghee.
+Dish Price: 33 AED
+Dish: Fried Eggs 
+Dish Description: Sunny side up, scrambled or omelette.
+Dish Price: 22 AED
+Dish: Eggs & Potato 
+Dish Description: Scrambled eggs cooked with potatoes.
+Dish Price: 23 AED
+Dish: Shakshouka 
+Dish Description: Sunny side up, cooked with tomato sauce & onion.
+Dish Price: 25 AED
+Dish: Eggs & Meat/Awarma/Soujuk 
+Dish Description: Sunny side up or scrambled; topped with chopped beef, Awarma or Soujuk.
+Dish Price: 30 AED
+Dish: Grilled Halloumi 
+Dish Description: Grilled halloumi cheese served with mint leaves, cucumber, tomato & olives.
+Dish Price: 28 AED
+Dish: Labneh 
+Dish Description: Dip of labneh topped with olive oil.
+Dish Price: 19 AED
+Dish: Labneh with Zaatar 
+Dish Description: Dip of labneh topped with zaatar & olive oil.
+Dish Price: 19 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: manakish
+Extras: Brown Dough - AED 2
+Vegetables - AED 3 / Cheese - AED 3
+Dish: Zaatar
+Dish Price: Regular 11 AED, Mashrouha 18  AED
+Dish: Zaatar & Cheese
+Dish Price: Regular 16 AED, Mashrouha 22  AED
+Dish: Zaatar & Labneh
+Dish Price: Regular 16 AED, Mashrouha 23  AED
+Dish: Akkawi Cheese
+Dish Price: Regular 16 AED, Mashrouha 24  AED
+Dish: Sheep Kashkaval Cheese
+Dish Description: Premium Lebanese Kaval.
+Dish Price: Regular 24 AED, Mashrouha 31  AED
+Dish: Halloumi Cheese
+Dish Price: Regular 21 AED, Mashrouha 24  AED
+Dish: Spicy Cheese
+Dish Price: Regular 19 AED, Mashrouha 26  AED
+Dish: Kishk
+Dish Description: Dried goat milk & cracked wheat cooked with garlic tomato sauce
+Dish Price: Regular 16 AED, Mashrouha 24  AED
+Dish: Kafta Malghoumeh * Recommended by the chef
+Dish Description: Wrapped Lebanese kafta served with pickles, tomato & mayo
+Dish Price: Regular 26 AED
+Dish: Eggs & Meat/Awarma * Recommended by the chef
+Dish Price: Regular 30 AED
+Dish: Spinach
+Dish Price: Regular 17 AED
+Dish: Soujok
+Dish Description: Spicy garlicy minced lamb
+Dish Price: Regular 20 AED
+Dish: Soujok & Cheese
+Dish Price: Regular 20 AED
+Dish: Chocoba
+Dish Description: Nutella & banana
+Dish Price: Regular 22 AED
+Dish: Haleweba
+Dish Price: Regular 21 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: SAJ
+Dish: Zaatar
+Dish Price: 13 AED
+Dish: Labneh
+Dish Price: 14 AED
+Dish: Zaatar & Cheese
+Dish Price: 22 AED
+Dish: Akkawi Cheese
+Dish Price: 20 AED
+Dish: Sheep Kashkaval Cheese
+Dish Description: Premium Lebanese Kaval
+Dish Price: 23 AED
+Dish: Halloumi Cheese
+Dish Price: 23 AED
+Dish: Turkey & Cheese * Recommended by the chef
+Dish Price: 25 AED
+Dish: Kishk
+Dish Description: Dried goat milk & cracked wheat cooked with garlic tomato sauce
+Dish Price: 22 AED
+Dish: Chocoba
+Dish Description: Nutella & banana
+Dish Price: 22 AED
+Dish: Haleweba
+Dish Description: Halewe, banana & honey
+Dish Price: 21 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: KAAK
+Extras: Vegetables - AED 3 / Cheese - AED 3 / Nutella - AED 4 / Strawberry - AED 2
+Dish: Plain
+Dish Price: 11 AED
+Dish: Zaatar
+Dish Price: 15 AED
+Dish: Picon Cheese
+Dish Price: 16 AED
+Dish: Picon Cheese Extra
+Dish Price: 19 AED
+Dish: Picon Cheese & Zaatar
+Dish Price: 16 AED
+Dish: Akkawi Cheese
+Dish Price: 22 AED
+Dish: Sheep Kashkaval Cheese
+Dish Price: 23 AED
+Dish: Turkey & Cheese
+Dish Price: 26 AED
+Dish: Chocoba * Recommended by the chef
+Dish Description: Nutella & banana
+Dish Price: 21 AED
+Dish: Haleweba
+Dish Description: Halewe, banana & honey
+Dish Price: 21 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: LAHM B AJINE
+Dish: Lahm b Ajine
+Dish Description: Minced spiced meat
+Dish Price: Regular 20 AED, Mashrouha 26 AED
+Dish: Lahm b Ajine & Cheese
+Dish Price: Regular 20 AED, Mashrouha 27 AED
+Dish: Small Lahm b Ajine
+Dish Description: Served with a side of yogurt
+Dish Price: 4pc 24 AED, 6pc 33 AED, 12pc 50 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: LAHM B AJINE
+For your gatherings, place your order 24 hours in advance
+Mini bites
+Dish: Pizza
+Dish Price: 1pc 4 AED, 6pc 24 AED, 12pc 43 AED
+Dish: Zaatar
+Dish Price: 1pc 2 AED, 6pc 12 AED, 12pc 22 AED
+Dish: Spinach
+Dish Price: 1pc 3 AED, 6pc 18 AED, 12pc 32 AED
+Dish: Akkawi Cheese
+Dish Price: 1pc 3 AED, 6pc 18 AED, 12pc 33 AED
+Dish: Sfiha Baalbakieh
+Dish Description: Served with a side of yogurt
+Dish Price: 1pc 3 AED, 6pc 18 AED, 12pc 33 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: PIZZA
+Dish: Allo Beirut Pizza
+Dish Description: Hotdog, mushroom & black Lebanese olives
+Dish Price: 34 AED
+Dish: Soujok Pizza
+Dish Description: Soujok, mushrooms & black Lebanese olives
+Dish Price: 37 AED
+Dish: Francisco Pizza
+Dish Description: Francisco chicken, lettuce, corn, mayo & soya sauce
+Dish Price: 39 AED
+Dish: Vegetable Pizza
+Dish Description: Mixed cheese, green peppers, onions, tomatoes, olives & mushrooms
+Dish Price: 34 AED
+Dish: Margherita Pizza
+Dish Description: Homemade tomato sauce & mozzarella cheese
+Dish Price: 34 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: BURGERS
+Extras: Eggs - AED 4 / Cheese - AED 3 / Double Patty - AED 7
+Dish: Beef Burger * Recommended by the chef
+Dish Description: 100% Halal beef homemade burger patty, coleslaw, pickles, mayo, ketchup & mustard; served in toasted sesame bun.
+Dish Price: 33 AED
+Dish: Crispy Chicken Burger
+Dish Description: Deep fried, hand-battered chicken breast, coleslaw, pickles, garlic cream & ketchup; served in toasted sesame bun.
+Dish Price: 32 AED
+Dish: Beef Burger Platter
+Dish Description: Beef burger served with a side of French fries, coleslaw & pickles.
+Dish Price: 42 AED
+Dish: Crispy Chicken Burger Platter
+Dish Description: Crispy chicken burger, served with a side of French fries, coleslaw & pickles.
+Dish Price: 42 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: FALAFEL
+Dish: Falafel Saj Sandwich
+Dish Description: Tomato, parsley, radish, pickled turnip, tarator & mint leaves in Saj bread.
+Dish Price: 16 AED
+Dish: Falafel Extra Sandwich
+Extras: Spicy Sauce - AED 1
+Dish Description: Tomato, parsley, radish, pickled turnip, tarator & mint leaves in Arabic bread.
+Dish Price: 15 AED
+Dish: Falafel Sandwich
+Dish Description: Tomato, parsley, radish, pickled turnip, tarator & mint leaves in Arabic bread.
+Dish Price: 11 AED
+Dish: Falafel Platter
+Dish Description: Served with a side of pickled turnip & chili, tomato, parsley & tarator.
+Dish Price: 6pc 19 AED, 12pc 30 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: SHAWARMA
+Extras: Spicy Sauce - AED 1
+Dish: Soujok Shawarma
+Dish Description: Tomato, pickles & spicy garlic cream.
+Dish Price: S 12 AED
+Dish: Chicken Shawarma
+Dish Description: Garlic cream, pickles & French fries; served in toasted Arabic bread.
+Dish Price: S 11 AED, L 22 AED
+Dish: Beef Shawarma
+Dish Description: Tomato, biwas, pickles & tarator; served in toasted Arabic bread.
+Dish Price: S 13 AED, L 23 AED
+Dish: Arabic Shawarma Chicken
+Dish Description: Wrapped in Saj bread & served with a side of pickles, French fries & garlic cream.
+Dish Price: L 37 AED
+Dish: Arabic Shawarma Beef * Recommended by the chef
+Dish Description: Wrapped in saj bread & served with a side of pickles, French fries & tarator.
+Dish Price: L 39 AED
+Dish: Chicken Shawarma Platter * Recommended by the chef
+Dish Description: Served with a side of garlic cream, pickles & French fries.
+Dish Price: L 39 AED
+Dish: Beef Shawarma Platter
+Dish Description: Served with a side of tomato, biwas, pickles & tarator.
+Dish Price: L 42 AED
+Dish: Mix Platter
+Dish Description: Served with a side of garlic cream, tarator, pickles, tomato, biwas & French fries.
+Dish Price: L 44 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: SANDWICHES
+Add French fries & salad - AED 13, Extras: Cheese - AED 3
+Dish: Grilled Chicken
+Dish Description: Pulled rotisserie chicken, pickles & garlic cream; served in grilled Arabic sumac & zaatar bread.
+Dish Price: 23 AED
+Dish: Chicken Musahab
+Dish Description: Pulled rotisserie chicken, pickles & garlic cream; served in toasted French bread.
+Dish Price: 22 AED
+Dish: Chicken Liver
+Dish Description: Sautéed chicken liver, tomato, pomegranate molasses, lemon juice, French fries, pickles, mint & garlic cream; served in toasted French bread.
+Dish Price: 22 AED
+Dish: Smokey Carolina Chicken
+Dish Description: Breaded chicken, cheddar cheese, lettuce, mayo, fries, carolina sauce; served in submarine bread.
+Dish Price: 26 AED
+Dish: Smokey Carolina Beef  * Recommended by the chef
+Dish Description: Prime beef tenderloin, cheddar cheese, lettuce, mayo, fries, carolina sauce; served in submarine bread.
+Dish Price: 33 AED
+Dish: Francisco
+Dish Description: Chicken strips, mozzarella, lettuce, corn, soy sauce & mayo; served in toasted French bread.
+Dish Price: 24 AED
+Dish: Chicken Fajita
+Dish Description: Chicken strips grilled with onion, red & green bell pepper, mozzarella, avocado & mayo; served in submarine bread.
+Dish Price: 29 AED
+Dish: Beef Fajita * Recommended by the chef
+Dish Description: Beef strips grilled with our special sauce, onion, red & green bell pepper, mozzarella & mayo; served in submarine bread.
+Dish Price: 29 AED
+Dish: Philadelphia Steak
+Dish Description: Beef steak, onion, mushroom, Philly cheese; served in submarine bread.
+Dish Price: 30 AED
+Dish: Roast Beef
+Dish Description: Homemade roast beef, pickles, tomato, mustard & mayo; served in toasted French bread.
+Dish Price: 24 AED
+Dish: Basterma
+Dish Description: Basterma, tomato & pickles; served with toasted French bread.
+Dish Price: 23 AED
+Dish: Dynamite Shrimp
+Dish Description: Deep fried shrimps, spring onions, lettuce & spicy Dynamite sauce; served with toasted French bread.
+Dish Price: 30 AED
+Dish: Dynamite Chicken
+Dish Description: Deep fried chicken breast, spring onions, lettuce & spicy Dynamite sauce; served in toasted French bread.
+Dish Price: 26 AED
+Dish: Crispy Chicken
+Dish Description: Deep fried chicken breast, tomato, pickles, coleslaw & ketchup; served in toasted French bread.
+Dish Price: 26 AED
+Dish: Tawouk King
+Dish Description: Cubes of grilled chicken breast, coleslaw, French fries, pickles, ketchup & garlic cream; served in grilled Arabic bread.
+Dish Price: 24 AED
+Dish: Hotdog
+Dish Description: Hotdog, mustard, ketchup & pickles; served in toasted French bread.
+Dish Price: 20 AED
+Dish: Makanek
+Dish Description: Sautéed beef makanek, pickles, tomato & mayo; served in toasted French bread.
+Dish Price: 21 AED
+Dish: Soujok
+Dish Description: Sautéed beef soujok, pickles, tomato & garlic cream; served in toasted French bread.
+Dish Price: 23 AED
+Dish: Batata Sandwich
+Dish Description: French fries, coleslaw, pickles & ketchup; served in toasted Arabic or French bread.
+Dish Price: 16 AED
+Dish: Cauliflower/Eggplant
+Dish Description: Deep fried cauliflower or eggplant, topped with tomato, pickles & tarator; served in toasted Arabic or French bread.
+Dish Price: 17 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: HOT APPETIZERS
+Dish: Lentil Soup
+Dish Price: 18 AED
+Dish: Batata Premium
+Dish Price: 18 AED
+Dish: Spicy Potato
+Dish Description: Fried potato cubes served with garlic, lemon juice, coriander & chili powder.
+Dish Price: 22 AED
+Dish: Beef Cubes
+Dish Description: Beef cubes cooked in lemon chili or pomegranate sauce.
+Dish Price: 39 AED
+Dish: Hummus & Meat
+Dish Description: Hummus topped with sautéed chopped lamb & pine nuts.
+Dish Price: 33 AED
+Dish: Hummus & Shawarma
+Dish Description: Hummus topped with beef or chicken shawarma.
+Dish Price: 31 AED
+Dish: Hummus & Pine Nuts * Recommended by the chef
+Dish Description: Hummus covered with toasted pine nuts.
+Dish Price: 31 AED
+Dish: Fried Kebbeh
+Dish Description: Kebbeh balls stuffed with minced lamb & pine nuts.
+Dish Price: 24 AED
+Dish: Cheese Rolls
+Dish Description: Puff pastry rolls stuffed with a blend of cheese & black sesame.
+Dish Price: 24 AED
+Dish: Chicken Wings
+Dish Description: Provençal or grilled.
+Dish Price: 6 pieces 24 AED, 12 pieces 39 AED
+Dish: Chicken Liver
+Dish Description: Fresh chicken liver sautéed with garlic, coriander, lemon juice & pomegranate molasses.
+Dish Price: 31 AED
+Dish: Soujok
+Dish Description: Soujok sautéed with garlic & lemon juice.
+Dish Price: 33 AED
+Dish: Makanek * Recommended by the chef
+Dish Description: Makanek sautéed with lemon juice & pomegranate molasses.
+Dish Price: 33 AED
+Dish: Fried Cauliflower/Eggplant
+Dish Price: 20 AED
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: COLD APPETIZERS
+Dish: Rocca, Beetroot & Feta Salad
+Dish Description: Rocket leaves, beetroot & feta cheese, lemon juice & olive oil dressing.
+Dish Price: 28 AED
+Dish: Rocca Thyme Salad * Recommended by the chef
+Dish Description: Rocket leaves, wild thyme & onion; served with sumac, lemon juice & olive oil dressing.
+Dish Price: 24 AED
+Dish: Tabbouleh
+Dish Description: Parsley, mint, tomato, onion & cracked wheat; served with lemon juice & olive oil dressing.
+Dish Price: 24 AED
+Dish: Fattouch
+Dish Description: Lettuce, cucumbers, mint, radish, purslane, rocca, thyme, tomato, onion, sumac, toasted bread, lemon & pomegranate vinaigrette.
+Dish Price: 24 AED
+Dish: Arabic Salad
+Dish Description: Lettuce, cucumber, tomato, radish & onion; served with lemon & olive oil dressing.
+Dish Price: 24 AED
+Dish: Hummus
+Dish Description: Puree of boiled chickpeas blended with tahini, garlic & lemon juice.
+Dish Price: 24 AED
+Dish: Allo Beirut Hummus
+Dish Description: Hummus mixed with zaatar & nuts.
+Dish Price: 24 AED
+Dish: Hummus Beiruti
+Dish Description: Hummus mixed with parsley & cumin, topped with fava beans.
+Dish Price: 26 AED
+Dish: Moutabal
+Dish Description: Puree of grilled eggplant, garlic, tahini & pomegranate seeds.
+Dish Price: 24 AED
+Dish: Raheb
+Dish Description: Puree of grilled eggplant mixed with tomato, parsley, spring onion & pomegranate seeds.
+Dish Price: 24 AED
+Dish: Mouhammara
+Dish Description: Chili, cashew, walnut & pine seed paste.
+Dish Price: 26 AED
+Dish: Makdous
+Dish Description: Pickled small eggplants stuffed with walnuts & peppers.
+Dish Price: 25 AED
+Dish: Mousakaa
+Dish Description: Oven baked eggplant with chickpeas, tomatoes, capsicum, garlic & onions.
+Dish Price: 22 AED
+Dish: Vine Leaves
+Dish Description: Vine leaves stuffed with rice, tomatoes, lemon & herbs in olive oil.
+Dish Price: 27 AED
+Dish: Hindbé
+Dish Description: Cooked dandelion leaves with onion & lemon.
+Dish Price: 26 AED
+Dish: Labneh with Garlic
+Dish Price: 20 AED
+Dish: Vegetables Platter
+Dish Price: 19 AED
+Dish: Coleslaw
+Dish Price: 9 AED
+Dish: Garlic Cream
+Dish Price: 7 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: GRILLS
+Platters are served with French fries or Arabic salad
+Dish: Shish Tawouk
+Dish Description: Chicken breast cubes (tomato or yogurt marinade).
+Dish Price: SANDWICH 28 AED, 2 SKEWERS 42 AED, 3 SKEWERS 52 AED, 1/2Kg 79 AED, 1Kg 156 AED  
+Dish: Grilled Beef Fillet
+Dish Price: SANDWICH 26 AED, 2 SKEWERS 49 AED, 3 SKEWERS 66 AED, 1/2Kg 105 AED, 1Kg 185 AED  
+Dish: Grilled Lamb Loin
+Dish Price: SANDWICH 28 AED, 2 SKEWERS 52 AED, 3 SKEWERS 68 AED, 1/2Kg 115 AED, 1Kg 205 AED
+Dish: Lebanese Kafta
+Dish Description: Minced meat with onion & parsley.
+Dish Price: SANDWICH 23 AED, 3 SKEWERS 39 AED, 4 SKEWERS 52 AED, 1/2Kg 79 AED, 1Kg 155 AED
+Dish: Kabab Khashkhash
+Dish Description: Minced meat served on spicy tomato sauce.
+Dish Price: SANDWICH 23 AED, 3 SKEWERS 42 AED, 4 SKEWERS 52 AED, 1/2Kg 79 AED, 1Kg 149 AED
+Dish: Kabab Orfali
+Dish Description: Minced meat paired with grilled eggplant, tomato & chili.
+Dish Price: SANDWICH 23 AED, 3 SKEWERS 42 AED, 4 SKEWERS 52 AED, 1/2Kg 79 AED, 1Kg 149 AED
+Dish: Mixed Grills
+Dish Description: Shish tawouk, grilled lamb loin, khashkhash & kafta.
+Dish Price: 3 SKEWERS 45 AED, 4 SKEWERS 58 AED, 1/2Kg 89 AED, 1Kg 189 AED
+Dish: Lamb Chops
+Dish Description: 6pcs lamb chops served with grilled tomato & onion.
+Dish Price: 1/2Kg 99 AED
+Dish: Arayes Kafta
+Dish Price: SANDWICH 35 AED  
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: CHICKEN
+Dish: Rotisserie Chicken
+Dish Description: Served with French fries, garlic sauce, pickles & bread.
+Dish Price: Half 39 AED, Full 59 AED
+Dish: Grilled Chicken
+Dish Description: Served with French fries, garlic sauce, pickles & bread.
+Dish Price: Half 42 AED, Full 79 AED
+Dish: Crispy Chicken Platter
+Dish Description: Deep fried, hand-battered chicken strips, served with a side of French fries, coleslaw & pickles.
+Dish Price: Half 21 AED, Full 41 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: DAILY DISH. EVERY DAY
+All dishes are served with lentil soup & side salad. Ask your waiter for additional daily dish selections
+Dish: Stuffed Lamb
+Dish Description: Slow cooked lamb with oriental spiced rice & nuts; served with yogurt.
+Dish Price: 59 AED
+Dish: Stuffed Chicken
+Dish Description: Half rotisserie chicken with oriental spiced rice & nuts; served with yogurt.
+Dish Price: 55 AED
+Dish: Machbous Lamb
+Dish Description: Slow cooked lamb with machbous rice; served with yogurt.
+Dish Price: 59 AED
+Dish: Machbous Chicken
+Dish Description: Half rotisserie chicken with machbous rice; served with yogurt.
+Dish Price: 55 AED
+Dish: Machbous
+Dish Description: Spiced rice with raisins & fried onions; served with yogurt.
+Dish Price: 30 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: DAILY DISH. WEDNESDAY SPECIAL
+All dishes are served with lentil soup & side salad. Ask your waiter for additional daily dish selections
+Dish: Vine Leaves & Koussa
+Dish Description: Stuffed vine leaves & marrows with lamb cutlets.
+Dish Price: 58 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: JUICES/COCKTAILS
+Dish: Fresh Juices
+Dish Description: Lemonade / with Mint.
+Dish Price: 18 AED
+Dish: Fresh Juices
+Dish Description: Orange / Carrot / Strawberry / Apple / Watermelon / Melon / Guava / Pineapple / Mango.
+Dish Price: 21 AED
+Dish: Fresh Juices
+Dish Description: Pomegranate.
+Dish Price: 27 AED
+Dish: Banana & Milk
+Dish Price: 20 AED
+Dish: Tahiti
+Dish Description: Strawberry juice with pineapple, bananas & strawberry chunks; topped with vanilla merry cream.
+Dish Price: 23 AED
+Dish: Juice Cocktail
+Dish Description: Guava, banana, strawberry, mango & milk.
+Dish Price: 24 AED
+Dish: Fruit Cocktail
+Dish Description: Juice cocktail with chunks of pineapple, apple, banana, strawberry, kiwi, grapes & mango; topped with Ashta, pistachio, almonds & honey.
+Dish Price: 29 AED
+Dish: Avocado
+Dish Description: Avocado blended with milk & honey; topped with Ashta, honey & almonds.
+Dish Price: 29 AED
+Dish: Create Your Own Cocktail
+Dish Price: 29 AED
+
+Restaurant: Allo BEIRUT, Link to full menu url: http://www.allobeirutstreetfood.com/wp-content/uploads/2023/07/Final-AB-menu-2023-MAR.pdf 
+Restaurant: Allo BEIRUT, Dish Group: BEVERAGES
+Dish: Small Aquafina Still Water
+Dish Price: 7 AED
+Dish: Small Sparkling Water
+Dish Price: 11 AED
+Dish: Soft Drinks
+Dish Description: Pepsi, Diet Pepsi, 7-Up, Diet 7-Up, Miranda, Mountain Dew
+Dish Price: 7 AED
+Dish: Lipton Iced Tea
+Dish Description: Lemon or peach
+Dish Price: 9 AED
+Dish: Bonjus
+Dish Price: 7 AED
+Dish: Laban Ayran
+Dish Price: 8 AED
+Dish: Non-Alcoholic Beer
+Dish Price: 13 AED
+Dish: Tea
+Dish Price: 12 AED
+Dish: Espresso
+Dish Price: 13 AED
+Dish: Americano
+Dish Price: 13 AED
+Dish: Cappuccino
+Dish Price: 16 AED
+Dish: Turkish Coffee
+Dish Price: 13 AED
+Dish: Nescafe Allo Beirut
+Dish Price: 14 AED
+Dish: White Coffee
+Dish Description: Orange blossom water, lemon peel.
+Dish Price: 13 AED
+
