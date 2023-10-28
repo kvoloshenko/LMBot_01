@@ -3,6 +3,7 @@
 
 Пример-заготовка для нейро-помощника, основанном на подходе RAG (Retrieval-Augmented Generation).
 
-В качестве сервера с LLM (Large language model) используется продукт LM Studio.
+В качестве сервера с LLM (Large language model) используется продукт LM Studio: https://lmstudio.ai/
+
 
 Приглашаю в Телеграм общаться по это теме: https://t.me/AiExp01
