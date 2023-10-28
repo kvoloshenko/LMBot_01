@@ -62,13 +62,17 @@ def answer_index(system, topic, message_content, temp):
 
     return answer  # возвращает ответ
 
-if __name__ == '__main__':
+def test(topic):
     database = load_text('OrderDeliciousBot_KnowledgeBase_01.txt')
     index_db = create_index_db(database)
-    topic ="В каком ресторане есть Labneh? Опиши это блюдо"
     message_content = get_message_content(topic, index_db, k_num=2)
     # Инструкция для LLM, которая будет подаваться в system
     system = load_text('OrderDeliciousBot_Prompt_01.txt')
     ans = answer_index(system, topic, message_content, temp=0.2) # получите ответ модели
+    return ans
+
+if __name__ == '__main__':
+    topic ="В каком ресторане есть Labneh? Опиши это блюдо"
+    ans = test(topic)
     print(ans)
 
