@@ -43,7 +43,7 @@ def get_message_content(topic, index_db, k_num):
 def answer_index(system, topic, message_content, temp):
     openai.api_type = "open_ai"
     openai.api_base = "http://localhost:1234/v1"
-    openai.api_key = "Whatever"
+    openai.api_key = "no need anymore"
 
     messages = [
         {"role": "system", "content": system},
@@ -52,7 +52,7 @@ def answer_index(system, topic, message_content, temp):
 
 
     completion = openai.ChatCompletion.create(
-        model='gpt-4',
+        model='no need anymore',
         messages=messages,
         temperature=temp
     )
