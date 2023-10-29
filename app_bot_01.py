@@ -1,4 +1,4 @@
-import re
+import re        # для работы с регулярными выражениями
 import codecs
 from langchain.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
@@ -26,6 +26,7 @@ def create_index_db(database):
     db = FAISS.from_documents(source_chunks, embeddings)
     return db
 
+# Функция загруки содержимого текстового файла
 def load_text(file_path):
     # Открытие файла для чтения
     with codecs.open(file_path, "r", encoding="utf-8", errors="ignore") as input_file:
@@ -33,6 +34,7 @@ def load_text(file_path):
         content = input_file.read()
     return content
 
+# Функция получения релевантные чанков из индексной базы знаний на основе заданной темы
 def get_message_content(topic, index_db, k_num):
     # Поиск релевантных отрезков из базы знаний
     docs = index_db.similarity_search(topic, k = k_num)
@@ -40,6 +42,7 @@ def get_message_content(topic, index_db, k_num):
     print(f"message_content={message_content}")
     return message_content
 
+# Функция отправки запроса в модель и получения ответа от модели
 def answer_index(system, topic, message_content, temp):
     openai.api_type = "open_ai"
     openai.api_base = "http://localhost:1234/v1"
@@ -63,12 +66,16 @@ def answer_index(system, topic, message_content, temp):
     return answer  # возвращает ответ
 
 def test(topic):
+    # Загружаем текст Базы Знаний из файла
     database = load_text('OrderDeliciousBot_KnowledgeBase_01.txt')
+    # Создаем индексную Базу Знаний
     index_db = create_index_db(database)
+    # Ищем реливантные вопросу чанки и формируем контент для модели, который будет подаваться в user
     message_content = get_message_content(topic, index_db, k_num=2)
-    # Инструкция для LLM, которая будет подаваться в system
+    # Загружаем промпт для модели, который будет подаваться в system
     system = load_text('OrderDeliciousBot_Prompt_01.txt')
-    ans = answer_index(system, topic, message_content, temp=0.2) # получите ответ модели
+    # Делаем запрос в модель и получаем ответ модели
+    ans = answer_index(system, topic, message_content, temp=0.2)
     return ans
 
 if __name__ == '__main__':
