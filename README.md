@@ -3,15 +3,15 @@
 # LMBot_01
 # LM Studio: Chat Bot based on Open Source LLM!
 
-Пример-заготовка для нейро-помощника, основанном на подходе RAG (Retrieval-Augmented Generation).
+Пример-заготовка для нейро-помощника, основанном на подходе **RAG** (Retrieval-Augmented Generation).
 
-Использованы только Open Source компоненты: 
+Использованы только **Open Source** компоненты: 
 
-1️⃣  Локальный сервер от LM Studio
+1. Локальный сервер от **LM Studio**
 
-2️⃣  Вместо OpenAI  Embeddings - HuggingFaceEmbeddings с моделью 'sentence-transformers/all-MiniLM-L6-v2'
+2. Вместо OpenAI  Embeddings - **HuggingFaceEmbeddings** с моделью 'sentence-transformers/all-MiniLM-L6-v2'
 
-3️⃣  Вместо GPT-4 - модель: IlyaGusev/saiga_mistral_7b_gguf/model-q8_0.gguf
+3. Вместо GPT-4 - модель: **IlyaGusev/saiga_mistral_7b_gguf/model-q8_0.gguf**
 
 ![LMBot_01.png](Doc%2FLMBot_01.png)
 
