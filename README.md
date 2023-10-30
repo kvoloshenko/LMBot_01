@@ -18,6 +18,9 @@
 ## LM Studio
 В качестве сервера с LLM (Large language model) используется продукт LM Studio: https://lmstudio.ai/
 
+### Скришот про настройку LM Studio
+![](Doc/LMStudioConfig_01.png)
+
 ### Скришот про размеры моделей и требуемые GPU
 ![LMStudioGPU.jpg](Doc%2FLMStudioGPU.jpg)
 

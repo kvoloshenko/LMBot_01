@@ -65,21 +65,24 @@ def answer_index(system, topic, message_content, temp):
 
     return answer  # возвращает ответ
 
-def test(topic):
-    # Загружаем текст Базы Знаний из файла
-    database = load_text('OrderDeliciousBot_KnowledgeBase_01.txt')
-    # Создаем индексную Базу Знаний
-    index_db = create_index_db(database)
+# Загружаем текст Базы Знаний из файла
+database = load_text('OrderDeliciousBot_KnowledgeBase_01.txt')
+# Создаем индексную Базу Знаний
+index_db = create_index_db(database)
+# Загружаем промпт для модели, который будет подаваться в system
+system = load_text('OrderDeliciousBot_Prompt_01.txt')
+
+
+
+def answer_user_question(topic):
     # Ищем реливантные вопросу чанки и формируем контент для модели, который будет подаваться в user
     message_content = get_message_content(topic, index_db, k_num=2)
-    # Загружаем промпт для модели, который будет подаваться в system
-    system = load_text('OrderDeliciousBot_Prompt_01.txt')
     # Делаем запрос в модель и получаем ответ модели
     ans = answer_index(system, topic, message_content, temp=0.2)
     return ans
 
 if __name__ == '__main__':
     topic ="В каком ресторане есть Labneh? Опиши это блюдо"
-    ans = test(topic)
+    ans = answer_user_question(topic)
     print(ans)
 
