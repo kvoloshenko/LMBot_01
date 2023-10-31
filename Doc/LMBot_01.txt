@@ -1,20 +1,23 @@
 @startuml
+hide footbox
+title "app_bot_01" 
 actor User
-participant Test as T
+participant AnswerUserQuestion as AUQ
+participant app_bot_01 as bot
 participant LoadText as LT
 participant CreateIndexDB as CIDB
 participant GetMessageContent as GMC
 participant AnswerIndex as AI
-
-User -> T : topic
-T -> LT : 'OrderDeliciousBot_KnowledgeBase_01.txt'
-LT --> T : database
-T -> CIDB : database
-CIDB --> T : index_db
-T -> GMC : topic, index_db, k_num=2
-GMC --> T : message_content
-T -> LT : 'OrderDeliciousBot_Prompt_01.txt'
-LT --> T : system
-T -> AI : system, topic, message_content, temp=0.2
-AI --> T : ans
+bot -> LT : Загружаем текст Базы Знаний из файла\nload_text('OrderDeliciousBot_KnowledgeBase_01.txt')
+bot <-- LT : database
+bot -> CIDB : Создаем индексную Базу Знаний\ncreate_index_db(database)
+bot <-- CIDB : index_db
+bot -> LT : Загружаем промпт для модели, который будет подаваться в system\nload_text('OrderDeliciousBot_Prompt_01.txt')
+bot <-- LT : system
+User -> AUQ : topic
+AUQ -> GMC : Ищем реливантные вопросу чанки и формируем контент для модели, который будет подаваться в user\nget_message_content(topic, index_db, k_num=2)
+AUQ <-- GMC : message_content
+AUQ -> AI : Делаем запрос в модель\nanswer_index(system, topic, message_content, temp=0.2)
+AUQ <-- AI : и получаем ответ модели\nans
+User <-- AUQ : ответ модели
 @enduml
